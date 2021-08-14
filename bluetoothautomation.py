@@ -4,7 +4,7 @@
 # In[2]:
 
 
-import oneplus.setting as 
+import device.setting as 
 ##########################################################################################################
 def turnonBluetooth(device):    
 settings.gotoSettings(device)    
